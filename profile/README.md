@@ -24,9 +24,11 @@ EMO-Lab 是一個結合**電機、電子與資訊工程**的跨領域人工智�
 
 ## 🎯 核心研究領域
 
-### 🔍 **1. 電腦視覺（Computer Vision）**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🔍 **電腦視覺（Computer Vision）**
 
 | 研究方向 | 技術重點 |
 |---------|---------|
@@ -35,15 +37,12 @@ EMO-Lab 是一個結合**電機、電子與資訊工程**的跨領域人工智�
 | 🤟 **手語辨識** | Sign Language Recognition、Skeleton Fusion |
 | 📊 **資料處理** | Large-scale Dataset Annotation & Augmentation |
 
-</div>
-
 **關鍵技術棧**：OpenCV、MediaPipe、YOLOv8、Detectron2、MMDetection
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🤖 **2. 人工智慧與深度學習（AI & Deep Learning）**
-
-<div align="center">
+### 🤖 **人工智慧與深度學習（AI & Deep Learning）**
 
 | 模型類型 | 應用場景 |
 |---------|---------|
@@ -52,15 +51,14 @@ EMO-Lab 是一個結合**電機、電子與資訊工程**的跨領域人工智�
 | 🤝 **Multi-Agent** | AI Agents、MCP Integration、Agent Orchestration |
 | 🧠 **LLM** | Local LLM Inference、RAG Systems、Fine-tuning |
 
-</div>
-
 **關鍵技術棧**：PyTorch、TensorFlow、Hugging Face、LangChain、Ollama、vLLM
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚡ **3. 邊緣與伺服器架構（Edge & Server Systems）**
-
-<div align="center">
+### ⚡ **邊緣與伺服器架構（Edge & Server Systems）**
 
 | 平台 | 應用 |
 |------|------|
@@ -69,15 +67,12 @@ EMO-Lab 是一個結合**電機、電子與資訊工程**的跨領域人工智�
 | 🌐 **網路架構** | MikroTik、AdGuard、Cloudflare Integration |
 | 💻 **GPU 加速** | CUDA、cuDNN、TensorRT |
 
-</div>
-
 **關鍵技術棧**：Jetson SDK、Docker、Kubernetes、Nginx、Traefik
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌟 **4. 智慧應用（Smart Applications）**
-
-<div align="center">
+### 🌟 **智慧應用（Smart Applications）**
 
 | 領域 | 專案範例 |
 |------|---------|
@@ -86,31 +81,42 @@ EMO-Lab 是一個結合**電機、電子與資訊工程**的跨領域人工智�
 | 📞 **智慧客服** | Legal/Campus/Transportation AI Chatbot |
 | 🤖 **自動化工具** | Discord Bot、Web-based AI Tools |
 
-</div>
-
 **關鍵技術棧**：FastAPI、React、Discord.py、WebSocket、RESTful API
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 使命與願景
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌍 **使命（Mission）**
 
 > 打造能在真實世界落地的 AI 系統，整合工程技術與智慧模型，協助產業、教育與社群推動智慧化轉型。
 
+</td>
+<td width="50%" valign="top">
+
 ### 🚀 **願景（Vision）**
 
 > 成為跨領域 AI 實作與研究的試驗基地，累積能夠推廣、複製、實際運用的解決方案。
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ 技術棧總覽
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 程式語言與框架
 
@@ -118,35 +124,63 @@ EMO-Lab 是一個結合**電機、電子與資訊工程**的跨領域人工智�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### 深度學習框架
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 開發工具
+</td>
+<td width="50%" valign="top">
+
+### 開發工具與平台
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-</div>
+### 前端與後端
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 專案亮點
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 | 🎯 專案類型 | 📈 成果 |
 |------------|--------|
 | **電腦視覺** | 高精度物件偵測、即時姿態追蹤 |
 | **邊緣 AI** | Jetson 平台優化、低延遲推論 |
+
+</td>
+<td width="50%" valign="top">
+
+| 🎯 專案類型 | 📈 成果 |
+|------------|--------|
 | **多代理系統** | 智能協作、任務自動化 |
 | **智慧應用** | 產業級解決方案、開源貢獻 |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
